@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 <!-- Latest compiled and minified CSS -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
 <style>
 	.sidebar-bg {
 		background: gray;
@@ -27,6 +28,7 @@
   <div class="col-sm-3 sidebar-bg">
   	<u1>
   		<li>
+  			<i class="fas fa-thumbs-up"></i>
   			<a href="/mall/index.jsp">È¨À¸·Î</a>
   		</li>
   	</u1>
